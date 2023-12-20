@@ -1,0 +1,45 @@
+* {
+    background-color: #af11;
+}
+.cont {
+    background-color: rgba(69, 98, 14);
+    height: 300px;
+    width: auto;
+    margin: 0;
+    display: flexbox;
+    justify-content: center;
+}
+.pic {
+    height: 250px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+.recipe {
+    text-align: center;
+    
+}
+.txt {
+    color: rgb(38, 38, 46);
+    font-size: 30px;
+}
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#conatiner {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: hotpink
+}
+#animate {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background:orange
+}
